@@ -12,7 +12,7 @@ public class MailUtils {
                                         
                 You registered an account on Hangman, 
                 before being able to use your account you need to verify that this is your email address 
-                by clicking here: http://localhost:3000/confirm/email/%s
+                by clicking here: https://cryptic-tor-58963-217b506730e7.herokuapp.com/confirm/email/%s
                                               
                 Kind Regards, Hangman.
                 """;
